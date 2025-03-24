@@ -1,12 +1,27 @@
-# React + Vite
+# Social Learning Platform - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Overview
+The **Social Learning Platform** is a web-based application designed to facilitate online learning. Users can **enroll in courses, participate in discussions, track progress, and engage with other learners**. This repository contains the **frontend** of the platform, built using **React, Vite, and Material-UI (MUI)** for a modern and responsive user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- **Course Management**: View and enroll in available courses.
+- **User Authentication**: Secure login and signup functionality.
+- **Discussion Forums**: Participate in real-time discussions using WebSockets.
+- **Progress Tracking**: Monitor course progress and achievements.
+- **Responsive UI**: Built with Material-UI (MUI) for a sleek design.
+- **Fast Performance**: Optimized with Vite for a blazing-fast frontend.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend Framework**: React (with Vite for fast development)
+- **UI Components**: Material-UI (MUI)
+- **State Management**: React Context API
+- **Routing**: React Router
+- **Networking**: Fetch API / Axios
+
+---
+
+## 📂 File Structure
