@@ -82,6 +82,9 @@ npm run dev
 
 ## 📂 File Structure
 
+## 📂 File Structure
+
+```plaintext
 src/
 ├── components/         # Reusable UI components
 │   ├── auth/           # Authentication related components
