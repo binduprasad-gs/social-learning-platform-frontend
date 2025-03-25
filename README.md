@@ -82,9 +82,8 @@ npm run dev
 
 ## 📂 File Structure
 
-## 📂 File Structure
-
-```plaintext
+```
+plaintext
 src/
 ├── components/         # Reusable UI components
 │   ├── auth/           # Authentication related components
@@ -108,7 +107,7 @@ src/
 ├── theme.js            # MUI theme customization
 ├── App.jsx             # Main application component
 └── main.jsx            # Entry point
-
+```
 ---
 
 ## 🧩 Key Components
